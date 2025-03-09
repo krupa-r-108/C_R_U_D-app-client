@@ -8,4 +8,6 @@
 - Express JS
 - Node JS
 
+Live demo: 
+https://crud-app-mettsenia.vercel.app/
 
